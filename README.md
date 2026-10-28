@@ -10,3 +10,4 @@ Projeto para usar durante aulas de qts
 - Susan relatou que o novo site irá conter apenas os cursos de ensino-técnico do link: https://etecsalesgomes.cps.sp.gov.br/ensino-tecnico/
 - Joaquim da área pedagógica, relatou que as matérias de cada curso podem ser encontradas pela internet ou inventadas temporariamente, servindo como mock.
 - Steve, do marketing, quer um site atraente que funcione bem em navegadores modernos e seja compatível com dispositivos mobiles.
+commit 3
