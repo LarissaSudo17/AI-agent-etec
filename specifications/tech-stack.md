@@ -12,6 +12,7 @@ React + TypeScript + SQLite
 
 ## Objetivos da stack
 
+
 - Construir uma interface institucional atraente e responsiva.
 - Organizar a navegação e o catálogo de cursos de forma clara.
 - Suportar a área administrativa para cadastro de notícias.
