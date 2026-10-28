@@ -21,10 +21,20 @@ Validar se a implementação da Fase 1 atende ao escopo, à missão e à stack d
 4. A publicação de notícias funciona com fluxo mínimo de edição.
 5. O projeto segue a missão e a stack definidas.
 
+## Grupo de tarefas restantes
+- [ ] Revisar a missão, o escopo e a estrutura básica do site.
+- [ ] Definir a navegação principal e a arquitetura inicial das páginas.
+- [ ] Construir a página inicial com identidade institucional da escola.
+- [ ] Implementar o catálogo de cursos técnicos e a organização das matrizes.
+- [ ] Preparar o fluxo mínimo de login administrativo e cadastro de notícias.
+- [ ] Conectar o painel de notícias ao armazenamento inicial em SQLite.
+- [ ] Validar a responsividade em desktop e mobile.
+- [ ] Revisar o conteúdo, os critérios de merge e a documentação final.
+
 ## Merge gate
 A implementação pode ser mergeada quando:
 - todos os itens de checklist forem validados;
-- a funcionalidade principal da Fase 1 estiver estável;
+ - a funcionalidade principal da Fase 1 estiver estável e validada;
 - não houver erros evidentes de layout ou fluxo;
 - a documentação do recurso estiver alinhada com a missão e a stack.
 
